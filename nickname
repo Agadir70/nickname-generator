@@ -1,0 +1,5 @@
+print("welcome to nickname generator")
+nick = input("what\'s your favorite gemstone?\n")
+name = input("what\'s your favorite flower?\n")
+print("your nickname is " + nick + (" ") + name) 
+print("thank you")
